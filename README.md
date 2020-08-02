@@ -10,4 +10,4 @@
 * :heart: Pronouns: she / her / they / them
 
 ## Research interests
->Human health and disease; artificial intelligence; computation for social good; the microbial ecology of the human body; genetics, genomics, and evolution; the art and science of data visualization.
+>*Human health and disease; artificial intelligence; computation for social good; the microbial ecology of the human body; genetics, genomics, and evolution; the art and science of data visualization.*
