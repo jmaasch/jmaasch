@@ -1,6 +1,6 @@
 ### J R M A M
 
-- 🔭 I’m currently working on machine learning for protein informatics @ [Penn Machine Biology Group](https://delafuentelab.seas.upenn.edu).
+- :bar_chart: I’m currently working on machine learning for protein informatics @ [Penn Machine Biology Group](https://delafuentelab.seas.upenn.edu).
 - 🌱 I’m currently learning ```sklearn```, ```TensorFlow```, ```Bash```, high performance computing.
 - 👯 I’m looking to collaborate on ```R``` package development.
 - :heart: Pronouns: she / her / they / them
