@@ -3,7 +3,14 @@
 - 🔭 I’m currently working on machine learning for protein informatics @ [Penn Machine Biology Group](https://delafuentelab.seas.upenn.edu).
 - 🌱 I’m currently learning ```sklearn```, ```TensorFlow```.
 - 👯 I’m looking to collaborate on ```R``` package development.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jmaasch)
-- 😄 Pronouns: she / her / they / them
+- 📫 Reach me @ [![LinkedIn][2.2]][2]
+- :heart: Pronouns: she / her / they / them
 
 ![JM's github stats](https://github-readme-stats.vercel.app/api?username=jmaasch&hide=contribs,prs,issues&count_private=true&theme=onedark)
+
+
+
+<!-- Icons -->
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+<!-- Links to your social media accounts -->
+[2]: https://www.linkedin.com/in/jmaasch
