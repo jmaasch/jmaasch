@@ -6,4 +6,4 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jmaasch)
 - 😄 Pronouns: she / her / they / them
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmaasch&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![JM's github stats](https://github-readme-stats.vercel.app/api?username=jmaasch&hide=contribs,prs,issues&count_private=true&theme=highcontrast)
