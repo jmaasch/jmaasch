@@ -1,12 +1,9 @@
-### Hi there 👋
+### J R M A M
 
-<!--
-**jmaasch/jmaasch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on machine learning for protein informatics @ 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on R package development.
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on machine learning for protein informatics @ [Penn Machine Biology Group](https://delafuentelab.seas.upenn.edu).
+- 🌱 I’m currently learning ```sklearn```, ```TensorFlow```.
+- 👯 I’m looking to collaborate on ```R``` package development.
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/jmaasch)
 - 😄 Pronouns: she / her / they / them
 
 
