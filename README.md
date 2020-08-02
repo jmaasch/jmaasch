@@ -1,6 +1,4 @@
 # J R M A M
-
-## About me
 * :mortar_board: Master’s Candidate @ Penn Computer and Information Science
 * :computer: Interdisciplinary Innovation Fellow @ Penn Bioengineering
 * :computer: Reproducible Research Fellow @ [Open Knowledge Foundation](https://okfn.org)
