@@ -4,8 +4,6 @@
 * :computer: Reproducible Research Fellow @ [Open Knowledge Foundation](https://okfn.org)
 * :computer: Machine learning for protein informatics @ [Penn Machine Biology Group](https://delafuentelab.seas.upenn.edu).
 * 🌱 Currently learning ```sklearn```, ```TensorFlow```, ```PyTorch```, and high performance computing.
-* 👯 Looking to collaborate on ```R``` package development.
-* :heart: Pronouns: she / her / they / them
 
 ## Proficiencies
 * **Proficient:** ```Java```, ```R```, ```Python```, ```LaTeX```
