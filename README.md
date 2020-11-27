@@ -10,4 +10,4 @@
 * **Actively learning:** ```C```, ```JavaScript```, ```Bash```
 
 ## Research interests
->*Health and disease; artificial intelligence; computation for social good; the microbial ecology of the human body; genetics, genomics, and evolution; the art and science of data visualization.*
+>*Health and disease; artificial intelligence; computing for social good; the microbial ecology of the human body; genetics, genomics, and evolution; the art and science of data visualization.*
