@@ -1,7 +1,7 @@
 # J R M A M
 * :mortar_board: Master’s Candidate @ Penn Computer & Information Science
 * :computer: Interdisciplinary Innovation Fellow @ Penn Bioengineering
-* :graph: Reproducible Research Fellow @ [Open Knowledge Foundation](https://okfn.org)
+* :bar_chart: Reproducible Research Fellow @ [Open Knowledge Foundation](https://okfn.org)
 * :pill: Machine learning for antibiotic discovery @ [Penn Machine Biology Group](https://delafuentelab.seas.upenn.edu).
 * 🌱 Currently learning ```sklearn```, ```TensorFlow```, ```PyTorch```, and high performance computing.
 
