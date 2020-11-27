@@ -2,7 +2,7 @@
 * :mortar_board: Master’s Candidate @ Penn Computer & Information Science
 * :computer: Interdisciplinary Innovation Fellow @ Penn Bioengineering
 * :computer: Reproducible Research Fellow @ [Open Knowledge Foundation](https://okfn.org)
-* :computer: Machine learning for antibiotic discovery @ [Penn Machine Biology Group](https://delafuentelab.seas.upenn.edu).
+* :pill: Machine learning for antibiotic discovery @ [Penn Machine Biology Group](https://delafuentelab.seas.upenn.edu).
 * 🌱 Currently learning ```sklearn```, ```TensorFlow```, ```PyTorch```, and high performance computing.
 
 ## Proficiencies
