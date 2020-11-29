@@ -10,5 +10,9 @@
 * **Proficient:** ```Java```, ```R```, ```Python```, ```LaTeX```
 * **Actively learning:** ```C```, ```JavaScript```, ```Bash```, ```MATLAB```
 
+## Motivations
+
+I envision a future where questions of health and disease are answered through a cycle of collaboration between artificial and natural intelligences.
+
 ## Research interests
 >*Health and disease; artificial intelligence; computing for social good; the microbial ecology of the human body; genetics, genomics, and evolution; the art and science of data visualization.*
