@@ -5,7 +5,7 @@
 * :bar_chart: Reproducible Research Fellow @ [Open Knowledge Foundation](https://okfn.org)
 * :pill: Machine learning for antibiotic discovery @ [Penn Machine Biology Group](https://delafuentelab.seas.upenn.edu).
 * 🌱 Currently learning ```sklearn```, ```TensorFlow```, ```PyTorch```, and high performance computing.
-* :book: Read more about my work @ [ResearchGate](https://www.researchgate.net/profile/Jacqueline_Maasch) | [Google Scholar](https://scholar.google.com/citations?user=5l9n9J8AAAAJ&hl=en&oi=ao).
+* :book: Read more about my work @ [ResearchGate](https://www.researchgate.net/profile/Jacqueline_Maasch) | [Google Scholar](https://scholar.google.com/citations?user=5l9n9J8AAAAJ&hl=en&oi=ao) | [LinkedIn](www.linkedin.com/in/jmaasch).
 
 ## Proficiencies
 * **Proficient:** ```Java```, ```R```, ```Python```, ```LaTeX```
