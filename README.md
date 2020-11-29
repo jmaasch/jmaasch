@@ -1,6 +1,6 @@
 # J R M A M
 
-I envision a future where questions of health and disease are answered through a cycle of collaboration between artificial and natural intelligences.
+>*I envision a future where questions of health and disease are answered through a cycle of collaboration between artificial and natural intelligences.*
 
 * :mortar_board: Master’s Candidate @ Penn Computer & Information Science
 * :computer: Interdisciplinary Innovation Fellow @ Penn Bioengineering
