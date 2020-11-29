@@ -1,4 +1,7 @@
 # J R M A M
+
+I envision a future where questions of health and disease are answered through a cycle of collaboration between artificial and natural intelligences.
+
 * :mortar_board: Master’s Candidate @ Penn Computer & Information Science
 * :computer: Interdisciplinary Innovation Fellow @ Penn Bioengineering
 * :bar_chart: Reproducible Research Fellow @ [Open Knowledge Foundation](https://okfn.org)
@@ -9,10 +12,6 @@
 ## Proficiencies
 * **Proficient:** ```Java```, ```R```, ```Python```, ```LaTeX```
 * **Actively learning:** ```C```, ```JavaScript```, ```Bash```, ```MATLAB```
-
-## Motivations
-
-I envision a future where questions of health and disease are answered through a cycle of collaboration between artificial and natural intelligences.
 
 ## Research interests
 >*Health and disease; artificial intelligence; computing for social good; the microbial ecology of the human body; genetics, genomics, and evolution; the art and science of data visualization.*
