@@ -5,8 +5,7 @@
 * :pill: Machine learning for antibiotic discovery @ [Penn Machine Biology Group](https://delafuentelab.seas.upenn.edu).
 * 🌱 Currently learning ```sklearn```, ```TensorFlow```, ```PyTorch```, and high performance computing.
 
-- :book: [ResearchGate](https://www.researchgate.net/profile/Jacqueline_Maasch)
-- :book: [Google Scholar](https://scholar.google.com/citations?user=5l9n9J8AAAAJ&hl=en&oi=ao)
+- :book: [ResearchGate](https://www.researchgate.net/profile/Jacqueline_Maasch) | [Google Scholar](https://scholar.google.com/citations?user=5l9n9J8AAAAJ&hl=en&oi=ao)
 
 ## Proficiencies
 * **Proficient:** ```Java```, ```R```, ```Python```, ```LaTeX```
