@@ -11,3 +11,7 @@
 
 ## Research interests
 >*Health and disease; artificial intelligence; computing for social good; the microbial ecology of the human body; genetics, genomics, and evolution; the art and science of data visualization.*
+
+## Read more
+- [ResearchGate](https://www.researchgate.net/profile/Jacqueline_Maasch)
+- [Google Scholar](https://scholar.google.com/citations?user=5l9n9J8AAAAJ&hl=en&oi=ao)
