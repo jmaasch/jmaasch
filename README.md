@@ -11,10 +11,12 @@
 * **Proficient:** ```Java```, ```R```, ```Python```, ```LaTeX```
 * **Actively learning:** ```C```, ```JavaScript```, ```Bash```, ```MATLAB```
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/50045763/100760830-2e646180-33c0-11eb-94f1-2a8a0b3a3633.jpg" width=400>
+  </p>
+> Barnsley fern fractals computed in `R` and visualized with `ggplot2` and `ashR`.
+
 ## Research interests
 >*Health and disease; artificial intelligence; computing for social good; the microbial ecology of the human body; genetics, genomics, and evolution; the art and science of data visualization.*
 
 >*Realizing a future where questions of health and disease are answered through a cycle of collaboration between artificial and natural intelligences.*
-
-![barnsley_ferns](https://user-images.githubusercontent.com/50045763/100760830-2e646180-33c0-11eb-94f1-2a8a0b3a3633.jpg)
-> Barnsley fern fractals computed in `R` and visualized with `ggplot2` and `ashR`.
