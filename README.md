@@ -15,7 +15,7 @@
 <img src="https://user-images.githubusercontent.com/50045763/100778674-4c888c80-33d5-11eb-9343-4cc26044876a.jpg" width=600>
   </p>
   
->Barnsley fern fractals computed in `R` and visualized with `ggplot2`, `ggthemes`, and `ashR`.
+>Barnsley fern fractals computed in `R` and visualized with `ggplot2`, `ggthemes`, and [`ashR`](https://github.com/jmaasch/ashR).
 
 ## Research interests
 >*Health and disease; artificial intelligence; computing for social good; the microbial ecology of the human body; genetics, genomics, and evolution; the art and science of data visualization.*
