@@ -26,6 +26,4 @@
 
 ## Research interests
 
-🖥️ *Machine learning; causal inference; probabilistic, generative, and latent variable models; low data regimes; Bayesian methods; scientific computing.* 
-
-🧑‍🔬 *Computational biomedicine; drug development; health and disease; the microbial ecology of the human body; genetics, genomics, and evolution; the art and science of data visualization.*
+🖥️ *Machine learning; causal inference; probabilistic, generative, and latent variable models; low data regimes; Bayesian methods; scientific computing.* 🧑‍🔬 *Computational biomedicine; drug development; health and disease; the microbial ecology of the human body; genetics, genomics, and evolution; the art and science of data visualization.*
