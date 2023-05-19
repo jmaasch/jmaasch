@@ -1,7 +1,12 @@
 # J R M A M
 
-* :computer: PhD student @ Cornell Computer Science.
-* :book: Read more about my work @ [ResearchGate](https://www.researchgate.net/profile/Jacqueline_Maasch) | [Google Scholar](https://scholar.google.com/citations?user=5l9n9J8AAAAJ&hl=en&oi=ao) | [LinkedIn](www.linkedin.com/in/jmaasch).
+🧑‍🎓 PhD student @ Cornell Computer Science.
+
+📈 *Major areas:* Artificial Intelligence and Scientific Computing.
+
+📊 *Minor area:* Operations Research and Information Engineering.
+
+📚 Read more about my work @ [ResearchGate](https://www.researchgate.net/profile/Jacqueline_Maasch) | [Google Scholar](https://scholar.google.com/citations?user=5l9n9J8AAAAJ&hl=en&oi=ao) | [LinkedIn](www.linkedin.com/in/jmaasch).
 
 <!---
 
@@ -18,4 +23,7 @@
 --->
 
 ## Research interests
-*Artificial intelligence; computing for social good; health and disease; the microbial ecology of the human body; genetics, genomics, and evolution; the art and science of data visualization.*
+
+🖥️ *Machine learning; causal inference; probabilistic, generative, and latent variable models; low data regimes; Bayesian methods; scientific computing.* 
+
+🧑‍🔬 *Computational biomedicine; drug development; health and disease; the microbial ecology of the human body; genetics, genomics, and evolution; the art and science of data visualization.*
