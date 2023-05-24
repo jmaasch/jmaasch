@@ -2,7 +2,7 @@
 
 🧑‍🎓 **PhD student @ Cornell Computer Science.**
 
-🏛️ *Affiliations:* [Cornell Tech](https://tech.cornell.edu/) | [Weill Cornell Medicine Institute of AI for Digital Health](https://phs.weill.cornell.edu/research-collaboration/our-divisions/institute-artificial-intelligence-digital-health) | [Wang Lab](https://wcm-wanglab.github.io/) | [Kuleshov Group](https://www.cs.cornell.edu/~kuleshov/)
+🏛️ *Affiliations:* [Cornell Tech](https://tech.cornell.edu/) | [Weill Cornell Medicine Institute of AI for Digital Health](https://phs.weill.cornell.edu/research-collaboration/our-divisions/institute-artificial-intelligence-digital-health) | [Wang Lab](https://wcm-wanglab.github.io/) | [Kuleshov Group](https://www.cs.cornell.edu/~kuleshov/).
 
 📈 *Major areas:* Artificial Intelligence and Scientific Computing.
 
