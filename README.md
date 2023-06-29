@@ -2,11 +2,11 @@
 
 🧑‍🎓 **PhD student @ Cornell Computer Science.**
 
-🏛️ *Affiliations:* [Cornell Tech](https://tech.cornell.edu/) | [Weill Cornell Medicine Institute of AI for Digital Health](https://phs.weill.cornell.edu/research-collaboration/our-divisions/institute-artificial-intelligence-digital-health) | [Wang Lab](https://wcm-wanglab.github.io/) | [Kuleshov Group](https://www.cs.cornell.edu/~kuleshov/).
+🏛️ **Affiliations:** [Cornell Tech](https://tech.cornell.edu/) | [Weill Cornell Medicine Institute of AI for Digital Health](https://phs.weill.cornell.edu/research-collaboration/our-divisions/institute-artificial-intelligence-digital-health) | [Wang Lab](https://wcm-wanglab.github.io/) | [Kuleshov Group](https://www.cs.cornell.edu/~kuleshov/).
 
-📈 *Major areas:* Artificial Intelligence and Scientific Computing.
+📈 **Major areas:** Artificial Intelligence and Scientific Computing.
 
-📊 *Minor area:* Operations Research and Information Engineering.
+📊 **Minor area:** Operations Research and Information Engineering.
 
 📚 Read more about my work @ [ResearchGate](https://www.researchgate.net/profile/Jacqueline_Maasch) | [Google Scholar](https://scholar.google.com/citations?user=5l9n9J8AAAAJ&hl=en&oi=ao) | [LinkedIn](www.linkedin.com/in/jmaasch).
 
