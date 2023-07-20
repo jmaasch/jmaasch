@@ -1,8 +1,6 @@
 # J R M A M
 
-🧑‍🎓 **PhD student @ Cornell Computer Science.** 
-
-📈 **Major areas:** Artificial Intelligence and Scientific Computing. 📊 **Minor area:** Applied Probability and Statistics.
+I am a PhD student in the Department of Computer Science at Cornell University. I am primarily interested in machine learning and causal inference for clinical research. My major areas are in Artificial Intelligence and Scientific Computing and my minor area is in Applied Probability and Statistics.
 
 🏛️ **Affiliations:** [Cornell Tech](https://tech.cornell.edu/) | [Weill Cornell Medicine Institute of AI for Digital Health](https://phs.weill.cornell.edu/research-collaboration/our-divisions/institute-artificial-intelligence-digital-health) | [Wang Lab](https://wcm-wanglab.github.io/) | [Kuleshov Group](https://www.cs.cornell.edu/~kuleshov/).
 
