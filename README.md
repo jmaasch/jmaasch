@@ -22,6 +22,6 @@ I am a PhD student in the Department of Computer Science at Cornell University. 
 
 ## Research interests
 
-🖥️ 🔢 *Machine learning; causal inference; probabilistic, generative, and latent variable models; low data regimes; Bayesian methods; scientific computing.* 
+🖥️ 🔢 *Machine learning; causal inference; causal graphical models; probabilistic, generative, and latent variable models; low data regimes; Bayesian methods; scientific computing.* 
 
 🔬 💊 *Computational biomedicine; drug development; health and disease; the microbial ecology of the human body; genetics, genomics, and evolution; the art and science of data visualization.*
