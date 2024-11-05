@@ -1,6 +1,6 @@
 # J R M A M
 
-I am a PhD student in the Department of Computer Science at Cornell University. My current work mainly centers on causal structure learning and causal reasoning. My research is motivated by urgent biomedical problems, including drug discovery and bias detection in healthcare.
+I am a PhD student in the Department of Computer Science at Cornell University. I work at the intersection of machine learning and causality.
 
 🏛️ **Affiliations:** [Cornell Tech](https://tech.cornell.edu/) | [Weill Cornell Medicine Institute of AI for Digital Health](https://phs.weill.cornell.edu/research-collaboration/our-divisions/institute-artificial-intelligence-digital-health) | [Wang Lab](https://wcm-wanglab.github.io/) | [Kuleshov Group](https://www.cs.cornell.edu/~kuleshov/).
 
