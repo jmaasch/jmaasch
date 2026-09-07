@@ -1,8 +1,8 @@
 # J R M A M
 
-I am a PhD candidate in computer science at Cornell Tech. I work at the intersection of machine learning and causality.
+I am an AI research scientist in New York City. I received my PhD in computer science at Cornell University, with a minor in applied probability and statistics. I am interested in machine learning for reasoning and decision-making under uncertainty. This includes open problems in AI reasoning, causal inference, and reinforcement learning.
 
-📚 Read more about my work @ [Google Scholar](https://scholar.google.com/citations?user=5l9n9J8AAAAJ&hl=en&oi=ao) | [LinkedIn](www.linkedin.com/in/jmaasch) | [ResearchGate](https://www.researchgate.net/profile/Jacqueline_Maasch).
+📚 Read more about my work @ [jmaasch.github.io](https://jmaasch.github.io) | [Google Scholar](https://scholar.google.com/citations?user=5l9n9J8AAAAJ&hl=en&oi=ao) | [LinkedIn](www.linkedin.com/in/jmaasch) | [ResearchGate](https://www.researchgate.net/profile/Jacqueline_Maasch).
 
 <!---
 
