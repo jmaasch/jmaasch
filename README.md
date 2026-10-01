@@ -4,6 +4,8 @@ I am an AI research scientist in New York City. I received my PhD in computer sc
 
 📚 Read more about my work @ [jmaasch.github.io](https://jmaasch.github.io) | [Google Scholar](https://scholar.google.com/citations?user=5l9n9J8AAAAJ&hl=en&oi=ao) | [LinkedIn](www.linkedin.com/in/jmaasch) | [ResearchGate](https://www.researchgate.net/profile/Jacqueline_Maasch).
 
+🎨 For fun, I make color palettes for data visualization @ [sanzo](https://github.com/jmaasch/sanzo) | [pennR](https://github.com/jmaasch/pennR) | [ashR](https://github.com/jmaasch/ashR).
+
 <!---
 
 ## Proficiencies
